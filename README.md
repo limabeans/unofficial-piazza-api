@@ -12,4 +12,7 @@ Install the node dependencies (none at the moment)
 
 `npm install`
 
+
+Run it
+
 `node index.js`
