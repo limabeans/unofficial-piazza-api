@@ -1,6 +1,11 @@
 # unofficial-piazza-api
 
-You'll need to set environment variables.
+
+**endpoint:** [https://murmuring-temple-22632.herokuapp.com/](https://murmuring-temple-22632.herokuapp.com/)
+
+
+
+If you run this thing locally, ou'll need to set environment variables.
 
 `export PIAZZA_EMAIL=your_email`
 
